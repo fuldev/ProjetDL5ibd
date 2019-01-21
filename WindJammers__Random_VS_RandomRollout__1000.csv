@@ -1,0 +1,1 @@
+game,battle_name,num_of_games,agent1_name,round_number,agent1_mean_action_duration_sum,agent1_mean_accumulated_reward_sum,agent2_name,agent2_mean_action_duration_sum,agent2_mean_accumulated_reward_sum,mean_run_duration
